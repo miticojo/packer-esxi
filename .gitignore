@@ -1,5 +1,8 @@
 .vagrant
+build.*
+packer_cache/
 builds/
 isos/
 !builds/.gitkeep
 !isos/.gitkeep
+output-qemu/*
